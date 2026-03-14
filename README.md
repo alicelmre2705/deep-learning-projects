@@ -7,7 +7,8 @@ A collection of deep learning projects built with PyTorch and trained on Google 
 ## Projects
 
 ### 1. MNIST Digit Classifier
-**`mnist_digit_classifier.ipynb`**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alicelmre2705/deep-learning-projects/blob/main/mnist_digit_classifier.ipynb)
 
 A multi-layer perceptron (MLP) that classifies handwritten digits (0–9).
 
@@ -18,7 +19,8 @@ A multi-layer perceptron (MLP) that classifies handwritten digits (0–9).
 ---
 
 ### 2. Alzheimer MRI Classifier
-**`alzheimer_mri_classifier.ipynb`**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alicelmre2705/deep-learning-projects/blob/main/alzheimer_mri_classifier.ipynb)
 
 A CNN that classifies the severity of Alzheimer's disease from brain MRI scans.
 
@@ -30,7 +32,8 @@ A CNN that classifies the severity of Alzheimer's disease from brain MRI scans.
 ---
 
 ### 3. Cat Image Generator (DCGAN)
-**`cat_image_generator.ipynb`**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alicelmre2705/deep-learning-projects/blob/main/cat_image_generator.ipynb)
 
 A Deep Convolutional GAN that generates 64×64 cat face images from random noise.
 
@@ -42,12 +45,12 @@ A Deep Convolutional GAN that generates 64×64 cat face images from random noise
 
 ## How to Run
 
-All notebooks are designed to run on **Google Colab**:
+Cliquez sur le badge **Open in Colab** du projet voulu, puis :
 
-1. Open [colab.research.google.com](https://colab.research.google.com)
-2. Upload the notebook or open it from GitHub
-3. Set runtime to **GPU**: Runtime → Change runtime type → T4 GPU
-4. Click **Runtime → Run all**
+1. **Runtime → Change runtime type → T4 GPU**
+2. **Runtime → Run all**
+
+Les datasets se téléchargent automatiquement.
 
 ---
 
