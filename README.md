@@ -27,7 +27,7 @@ A CNN that classifies the severity of Alzheimer's disease from brain MRI scans.
 - **Dataset**: [Augmented Alzheimer MRI Dataset](https://www.kaggle.com/datasets/uraninjo/augmented-alzheimer-mri-dataset) — 4 classes, 33k images
 - **Classes**: Non Demented · Very Mild · Mild · Moderate
 - **Architecture**: 3 conv blocks + Dense classifier with Dropout
-- **Result**: ~86% validation accuracy
+- **Result**: ~94% validation accuracy
 
 ---
 
